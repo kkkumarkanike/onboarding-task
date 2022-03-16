@@ -14,12 +14,6 @@ function Landing() {
   }
   return (
     <div
-      style={{
-        display: "flex",
-        justifyContent: "center",
-        flexDirection: "column",
-        alignItems: "center",
-      }}
       className="landing"
     >
       <div className="header">
@@ -28,7 +22,6 @@ function Landing() {
           alt="icon"
           width={30}
           height={30}
-          // style={{ marginTop: "20px" }}
         />
         <h2 style={{marginLeft: "8px"}} className="big-text">Eden</h2>
       </div>

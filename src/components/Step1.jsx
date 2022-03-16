@@ -6,7 +6,7 @@ function Step1({click}) {
   return (
     <div>
       <div style={{ textAlign: "center" }}>
-        <p style={{ marginBottom: 0, width: "100%" }} className="big-text">Welcome! First things first...</p>
+        <p  className="big-text">Welcome! First things first...</p>
         <p style={{ color: "#aaa", fontSize: "13px" }}>
           you can always change them later.
         </p>

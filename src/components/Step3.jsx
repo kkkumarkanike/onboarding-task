@@ -9,15 +9,9 @@ function Step3({ click }) {
   return (
     <div>
       <div
-        style={{
-          textAlign: "center",
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
-          flexDirection: "column",
-        }}
+        style={{ textAlign: "center" }}
       >
-        <p style={{ marginBottom: 0, width: "100%" }} className="big-text">
+        <p className="big-text">
           How are you planning to use Eden?
         </p>
         <p style={{ color: "#aaa", fontSize: "13px" }}>
